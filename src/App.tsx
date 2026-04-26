@@ -92,7 +92,7 @@ export default function App() {
     {
       role: "Fullstack Developer",
       company: "Shivansh Solution",
-      period: "March 2025 –Till Today",
+      period: "March 2025 –Jan2026",
       points: [
         "Developed and maintained full-stack web applications using React.js, Node.js, Express.js, and MongoDB.",
         "Built RESTful APIs to manage users, products, and application data.",
